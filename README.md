@@ -22,6 +22,7 @@ My personal collection of Vue UI framework.
 * [AliTelecom UI - AliTelecom UI System](https://aliqin.github.io/atui/docs/atui/introduce)
 * [Bootstrap Vue - Twitter Bootstrap 4 Components for Vue.JS 2](https://bootstrap-vue.github.io/)
 * [AT-UI by O2 Team](https://at-ui.github.io/at-ui/#/en)
+* [Semantic UI](https://semantic-ui.com/)
 
 ## Mobile
 
